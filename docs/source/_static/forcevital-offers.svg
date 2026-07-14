@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="640" viewBox="0 0 1100 640" role="img" aria-labelledby="title desc">
+  <title id="title">ForceVital Paketangebote</title>
+  <desc id="desc">Drei ForceVital Angebotskarten für 2, 6 und 3 Flaschen mit Jetzt Kaufen Schaltflächen.</desc>
+  <defs>
+    <linearGradient id="dark" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#9a9a9a"/><stop offset="1" stop-color="#151515"/></linearGradient>
+    <style>
+      .card{fill:#fff;stroke:#d8d8d8;stroke-width:2}.title{font:700 22px Arial}.sub{font:28px Georgia}.price{font:800 40px Arial}.small{font:15px Arial}.btn{fill:#40ad51}.btnText{font:800 22px Arial;fill:white}.bottle{fill:#eeeeee;stroke:#c8c8c8}.label{fill:#18191e}.logo{font:700 24px Arial;fill:#fff}.muted{font:18px Arial;fill:#15213d}.centerCard{fill:url(#dark);stroke:#d8d8d8;stroke-width:2}.white{fill:white}.badge{fill:#39aa4b;stroke:#2f8f40}
+    </style>
+  </defs>
+  <rect width="1100" height="640" fill="#ececec"/>
+  <rect x="20" y="28" width="340" height="584" rx="18" class="card"/>
+  <rect x="380" y="18" width="340" height="604" rx="18" class="centerCard"/>
+  <rect x="740" y="28" width="340" height="584" rx="18" class="card"/>
+  <rect x="466" y="0" width="168" height="46" rx="22" class="badge"/><text x="550" y="20" text-anchor="middle" font="700 14px Arial" fill="#fff">BESTES PREIS-LEISTUNGS-</text><text x="550" y="37" text-anchor="middle" font="700 14px Arial" fill="#fff">VERHÄLTNIS</text>
+  <g transform="translate(70 70)"><text x="120" y="0" text-anchor="middle" class="title">2 Flaschen</text><text x="120" y="36" text-anchor="middle" class="sub">60-Tage-Vorrat</text></g>
+  <g transform="translate(430 62)"><text x="120" y="0" text-anchor="middle" class="title white">6 Flaschen</text><text x="120" y="36" text-anchor="middle" class="sub white">180-Tage-Vorrat</text></g>
+  <g transform="translate(790 70)"><text x="120" y="0" text-anchor="middle" class="title">3 Flaschen</text><text x="120" y="36" text-anchor="middle" class="sub">90-Tage-Vorrat</text></g>
+  <g id="b" transform="translate(0 0)"><rect x="0" y="0" width="88" height="210" rx="28" class="bottle"/><rect x="0" y="75" width="88" height="92" class="label"/><text x="44" y="113" text-anchor="middle" class="logo">Force</text><text x="44" y="143" text-anchor="middle" class="logo" font-style="italic">Vital</text><rect x="17" y="160" width="54" height="16" rx="8" fill="#333" stroke="#777"/><text x="44" y="172" text-anchor="middle" font="9px Arial" fill="#fff">30 KAPSELN</text><rect x="8" y="-28" width="72" height="36" rx="8" fill="#eee" stroke="#ccc"/></g>
+  <use href="#b" x="95" y="175"/><use href="#b" x="178" y="195"/>
+  <use href="#b" x="412" y="180"/><use href="#b" x="487" y="140"/><use href="#b" x="562" y="180"/><use href="#b" x="450" y="255"/><use href="#b" x="525" y="255"/><use href="#b" x="600" y="255"/>
+  <use href="#b" x="770" y="195"/><use href="#b" x="855" y="175"/><use href="#b" x="940" y="195"/>
+  <text x="190" y="430" text-anchor="middle" class="price">79 € <tspan class="small">/Flasche</tspan></text><text x="190" y="458" text-anchor="middle" class="small">GESAMTWERT 158 €</text>
+  <text x="550" y="455" text-anchor="middle" class="price white">49 € <tspan class="small">/Flasche</tspan></text><text x="550" y="483" text-anchor="middle" class="small white">GESAMTWERT 294 €</text>
+  <text x="910" y="430" text-anchor="middle" class="price">69 € <tspan class="small">/Flasche</tspan></text><text x="910" y="458" text-anchor="middle" class="small">GESAMTWERT 207 €</text>
+  <rect x="60" y="505" width="260" height="55" rx="9" class="btn"/><text x="190" y="541" text-anchor="middle" class="btnText">JETZT KAUFEN</text>
+  <rect x="420" y="505" width="260" height="55" rx="9" class="btn"/><text x="550" y="541" text-anchor="middle" class="btnText">JETZT KAUFEN</text>
+  <rect x="780" y="505" width="260" height="55" rx="9" class="btn"/><text x="910" y="541" text-anchor="middle" class="btnText">JETZT KAUFEN</text>
+  <text x="190" y="598" text-anchor="middle" class="muted">INKLUSIVE KOSTENLOSEM WELTWEITEM VERSAND</text>
+  <text x="550" y="598" text-anchor="middle" class="muted white">INKLUSIVE KOSTENLOSEM WELTWEITEM VERSAND</text>
+  <text x="910" y="598" text-anchor="middle" class="muted">INKLUSIVE KOSTENLOSEM WELTWEITEM VERSAND</text>
+</svg>
