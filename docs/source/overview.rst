@@ -8,7 +8,7 @@ Wofür steht ForceVital?
 
 Die Marke positioniert ForceVital als Ergänzung für erwachsene Männer, die ihren Lebensstil aktiver gestalten möchten. Statt rein kurzfristige Effekte in den Vordergrund zu stellen, beschreibt die `ForceVital Hauptseite <https://www.forcevital.cc/>`_ eine Kombination aus pflanzlichen Inhaltsstoffen, regelmäßiger Anwendung und bewussteren Routinen.
 
-.. image:: _static/forcevital-offers.svg
+.. image:: _static/Forcevital_prices.png
    :alt: ForceVital Paketangebote mit 2, 3 und 6 Flaschen
    :align: center
    :width: 100%
