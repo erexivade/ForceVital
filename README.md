@@ -2,7 +2,7 @@
 
 **ForceVital** ist ein Informations- und Produktangebot für erwachsene Männer, die sich mit Themen wie Energie, Ausdauer, Libido, Selbstvertrauen und allgemeiner Vitalität beschäftigen. Weitere Details, aktuelle Produktinformationen und die offizielle Darstellung finden Sie direkt auf der Website: **[https://www.forcevital.cc/](https://www.forcevital.cc/)**.
 
-![ForceVital Produktflasche](docs/source/_static/forcevital-bottle.svg)
+![ForceVital Produktflasche](docs/source/_static/ForceVital.png)
 
 
 ## Worum geht es bei ForceVital?
@@ -50,6 +50,6 @@ ForceVital ist kein Ersatz für medizinische Beratung, Diagnose oder Behandlung.
 
 Mehr Informationen zu ForceVital, dem Produktkonzept und aktuellen Angaben finden Sie hier:
 
-![ForceVital Paketangebote](docs/source/_static/forcevital-offers.svg)
+![ForceVital Paketangebote](docs/source/_static/Forcevital_prices.png)
 
 ➡️ **[ForceVital offizielle Website](https://www.forcevital.cc/)**
