@@ -6,7 +6,7 @@ Willkommen im unabhängigen Dokumentationsbereich zu `ForceVital <https://www.fo
 .. note::
    Diese Dokumentation ersetzt keine medizinische Beratung. Bei bestehenden Erkrankungen, Medikamenteneinnahme oder anhaltenden Beschwerden sollten Sie mit qualifiziertem Fachpersonal sprechen.
 
-.. image:: _static/forcevital-bottle.svg
+.. image:: _static/ForceVital.png
    :alt: ForceVital Produktflasche
    :align: center
    :width: 320px
